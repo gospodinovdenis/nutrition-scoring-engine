@@ -29,24 +29,28 @@ Combines rule-based and ML outputs
 Rule system acts as constraint layer
 ML refines scoring patterns
 
-Key Features
+4. Key Features
+
 Interpretable nutrition logic
 Hybrid modeling architecture
 Edge case detection (e.g., high protein but processed foods)
 Scalable scoring framework
 
-Example Insights
+5. Example Insights
+
 Whole foods rank highest due to fiber and low sugar
 Processed foods penalized for sodium despite protein content
 Hybrid model smooths extreme rule-based outputs
 
-Edge Case Analysis
+6. Edge Case Analysis
+
 The system explicitly identifies:
 High-protein, high-sodium foods
 High-sugar beverages
 Low-calorie but low-nutrient foods
 
-Future Improvements
+7. Future Improvements
+
 Ingredient-level modeling
 Micronutrient scoring integration
 Real-world labeled dataset training
